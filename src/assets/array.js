@@ -1,23 +1,23 @@
 const articles = [
     {
         id: 0,
-        title: 'MYTHOS, the new model of Anthropic',
+        title: 'Mythos, the new model of Anthropic.',
     },
     {
         id: 1,
-        title: 'THE REAL QUESTION, 2 + 2 = ?',
+        title: 'Windows K2, new update.',
     },
     {
         id: 2,
-        title: 'BOOLEAN, learn the code',
+        title: 'Boolean, learn the code.',
     },
     {
         id: 3,
-        title: 'AI OR NOT AI, this is the dilemma',
+        title: 'XChat, Musk challenges Whatsapp and Telegram.',
     },
     {
         id: 4,
-        title: 'AI WILL BECOME SENTIENT ?',
+        title: 'The impact of AI in 2026 for developers.',
     },
 ]
 
