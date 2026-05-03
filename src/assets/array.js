@@ -1,4 +1,4 @@
-const articles = [
+const articleList = [
     {
         id: 0,
         title: 'Mythos, the new model of Anthropic.',
@@ -21,4 +21,4 @@ const articles = [
     },
 ]
 
-export default articles
+export default articleList
