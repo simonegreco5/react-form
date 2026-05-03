@@ -1,8 +1,53 @@
 
 body {
-  font-family: 'Open Sans Variable', sans-serif;
+  background-color: black;
+  font-family: 'Press Start 2P', system-ui;
 }
 
-h1 {
-  font-family: 'Press Start 2P', system-ui;
+header{
+  position: relative;
+  padding: 5rem;
+  text-align: center;
+  background-color: rgba(0, 128, 0, 0.39);
+  border: 3px solid rgb(83, 8, 235);
+
+  h1 {
+    font-family: 'Press Start 2P', system-ui;
+    color: white;
+  }
+
+  h5{
+    position: absolute;
+    color: rgb(83, 8, 235);
+    left: 56%;
+    top: 55%;
+
+  }
+
+}
+
+main{
+  padding: 4rem;
+  background-color: rgba(0, 128, 0, 0.39);
+  border-radius: 3rem;
+  margin: 2rem;
+  border: 3px solid rgb(83, 8, 235);
+}
+
+button{
+  border: 3px solid rgb(83, 8, 235);
+  background-color: black;
+  color: white;
+  border-radius: 0.5rem;
+  align-items: center;
+}
+
+.btn-purple{
+  /* border: 3px solid rgb(83, 8, 235); */
+ background-color: rgb(83, 8, 235);
+ color: white;
+}
+
+.border-purple{
+  border: 3px solid rgb(83, 8, 235);
 }

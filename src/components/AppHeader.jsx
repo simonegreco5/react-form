@@ -3,6 +3,9 @@
 export default function AppHeader(){
 
     return (
-        <h1>BLOG FOR DEVELOPERS</h1>
+        <header>
+            <h1>BLOG FOR DEVELOPERS</h1>
+            <h5>news every day.</h5>
+        </header>
     )
 }

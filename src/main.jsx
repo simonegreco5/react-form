@@ -4,6 +4,7 @@ import '@fontsource/press-start-2p';
 // Supports weights 300-800
 import '@fontsource-variable/open-sans/wght.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap-icons/font/bootstrap-icons.css';
 import './index.css'
 import App from './App.jsx'
 
